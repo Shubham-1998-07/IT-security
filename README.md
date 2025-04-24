@@ -40,7 +40,7 @@ Integrity is the protection of system data from intentional or accidental unauth
 
 A critical requirement of both commercial and government data processing is to ensure the integrity of data to prevent fraud and errors. It is imperative, therefore, that no user be able to modify data in a way that might corrupt or lose assets or financial records, or render decision-making information unreliable.
 
-[Source](https://www.geeksforgeeks.org/information-security-confidentiality/)
+[Information Security | Confidentiality](https://www.geeksforgeeks.org/information-security-confidentiality/)
 
 ---
 
@@ -50,7 +50,7 @@ Role-Based Access Control (RBAC) is a security model where users are assigned ro
 
 RBAC simplifies access management, ensures security, and reduces the risk of unauthorized access. Best practices for RBAC include assigning the least privilege, performing regular audits, and using role hierarchies to ensure proper access control.
 
-[Source](https://frontegg.com/guides/rbac)
+[Role-Based Access Control (RBAC) ](https://frontegg.com/guides/rbac)
 
 ---
 
@@ -60,7 +60,7 @@ Single Sign-On (SSO) is a login system that lets users access multiple applicati
 
 SSO works by using a central authentication system, so users don’t have to remember different passwords for every site. While convenient, it comes with risks—if your credentials get hacked, attackers could access all your connected apps. That’s why strong security measures like multi-factor authentication are important.
 
-[Source](https://www.geeksforgeeks.org/introduction-of-single-sign-on-sso/)
+[Introduction of Single Sign On (SSO)](https://www.geeksforgeeks.org/introduction-of-single-sign-on-sso/)
 
 ---
 
@@ -70,7 +70,7 @@ A proxy server acts as a gateway between you and the internet. Normally, when yo
 
 Proxies are mainly used for security, privacy, and speed. They can block harmful websites or data before it reaches your device, and store frequently visited sites to load them faster.
 
-[Source](https://www.digitalguardian.com/blog/what-proxy-server-definition-how-it-works-more)
+[What is a Proxy Server? Definition](https://www.digitalguardian.com/blog/what-proxy-server-definition-how-it-works-more)
 
 ---
 
@@ -80,7 +80,7 @@ Firewalls are essential components in network security, acting as gatekeepers to
 
 NGFWs are designed to address both known and unknown threats, making them crucial for modern, dynamic networks.
 
-[Source](https://www.w3schools.com/cybersecurity/cybersecurity_firewalls.php)
+[Cyber Security Firewalls](https://www.w3schools.com/cybersecurity/cybersecurity_firewalls.php)
 
 ---
 
@@ -98,7 +98,7 @@ NGFWs are designed to address both known and unknown threats, making them crucia
    Impact: 533 million users affected  
    Facebook suffered a breach where personal data of 533 million users, including phone numbers and account names, was exposed.
 
-[Source](https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html)
+[The 18 biggest data breaches of the 21st century](https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html)
 
 ---
 
