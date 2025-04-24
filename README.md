@@ -30,7 +30,7 @@ Confidentiality is the protection of information in the system so that an unauth
 
 Privacy issues have gained an increasing amount of attention in the past few years, placing the importance of confidentiality on protecting personal information maintained in automated systems by both government agencies and private-sector organizations. Confidentiality must be well-defined, and procedures for maintaining confidentiality must be carefully implemented. A crucial aspect of confidentiality is user identification and authentication.
 
-[Source](https://www.geeksforgeeks.org/information-security-confidentiality/)
+[Information Security Confidentiality](https://www.geeksforgeeks.org/information-security-confidentiality/)
 
 ---
 
