@@ -4,16 +4,16 @@ In today’s digital-first world, the importance of information security cannot 
 
 ## Table of Contents
 
-1. Identity Security  
-2. Confidentiality  
-3. Integrity  
-4. Role-Based Access Control (RBAC)  
-5. Single Sign-On (SSO)  
-6. Proxy Servers  
-7. Firewalls  
-8. Real-World IT Security Breaches  
-9. Conclusion  
-10. References  
+1. [Identity Security](#1-identity-security)  
+2. [Confidentiality](#2-confidentiality)  
+3. [Integrity](#3-integrity)  
+4. [Role-Based Access Control rbac](#4-role-based-access-control-rbac)  
+5. [Single Sign-On sso](#5-single-sign-on-sso)  
+6. [Proxy Servers](#6-proxy-servers)  
+7. [Firewalls](#7-firewalls)  
+8. [Real-World IT Security Breaches](#8-real-world-it-security-breaches)  
+9. [Conclusion](#9-conclusion)  
+10. [References](#10-references)
 
 ---
 
